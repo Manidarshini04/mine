@@ -1,5 +1,5 @@
 package studentregistration;
-//khk
+//jkhljfgl
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
